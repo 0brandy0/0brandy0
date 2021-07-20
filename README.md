@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0brandy0
+- 👋 Hi, I’m Brandy Barfield
 - 👀 I’m interested in programming, project management and design
 - 🌱 I’m currently learning webdev and React
 - 💞️ I’m looking to collaborate on any webdev, project mangement or UX research projects
